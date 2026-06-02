@@ -1,0 +1,15 @@
+theme_position,question_type,mean,median,std,n
+1,Baseline,18.63,11.58,19.03,36
+1,Error Threshold,15.71,7.86,24.58,64
+2,Baseline,19.07,11.47,22.59,30
+2,Error Threshold,15.01,9.31,16.89,63
+3,Baseline,19.59,10.8,25.16,31
+3,Error Threshold,10.88,6.76,10.52,63
+4,Baseline,18.24,11.85,25.81,30
+4,Error Threshold,9.39,6.38,9.22,63
+5,Baseline,23.7,13.79,29.78,23
+5,Error Threshold,11.02,7.12,10.88,63
+6,Baseline,16.29,12.84,22.55,32
+6,Error Threshold,11.27,8.95,10.64,60
+7,Baseline,18.36,13.84,23.61,30
+7,Error Threshold,19.21,11.0,25.1,60
